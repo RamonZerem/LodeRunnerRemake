@@ -1,34 +1,10 @@
-# Project 3: 80’s - Lode Runner
+Welcome to the ultimate recreation of the classic game Lode Runner, brought to life with Unity technology! This nostalgic masterpiece will take you back in time to the 1980s,
+where you'll embark on a thrilling adventure filled with endless possibilities and excitement.
 
-Screen resolution: 16x9
+With unique mechanic, you'll be able to take control of the ladders in the game and replace them wherever you see fit, giving you complete control over your path to victory.
+Whether you need to ascend to higher platforms or make a quick escape from your enemies, you'll have the power to strategically place ladders wherever you need them.
 
-## Scope
-TODO
+The input controls for the game are simple and intuitive. You can use the arrow keys to move your character in different directions, the space bar to take and place ladders,
+and the X and Z keys to dig holes.
 
-## Intervention
-- [ ] Taking ladders - The player character could take ladders and change their place.
-
-## Mechanics
-- [ ] Characters:
-	- [ ] The characters can move left or right on the floor (that can be made of ladders),
-	  or on monkey bars. 
-	- [ ] The characters can climb ladders up and down.
-	- [ ] The characters could fall down.
-- [ ] The player character:
-	- [ ] move with the arrows keys.
-	- [ ] The player lose life if an enemy touch him, the player can touch an enemy from above.
-	- [ ] The player can dig holes from her left or right using 'x' and 'z' respectivly.
-- [ ] Holes:
-	- [ ] The holes are restored after a few seconds.
-	- [ ] The enemys (and only them) can climb out of the hole.
-	- [ ] If a character find herself inside a hole when it disapper it will die.
-		- [ ]  If the player die he will lose life and the stage will restart.
-		- [ ] if it was an enemy the player will earn points.
-		- [ ] If an enemy die he will respawn on the top level. 
-- [ ] When a character touch a pile of gold it disappers and the character will hold it.
-	- [ ] If it was the player he will earn points for it at the end of the stage.
-	- [ ] If it was the an enemy he will drop it when he fall into an hole.
-- [ ] The score and life counter is showen when the player lose a life or finish the stage.
-- [ ] The score is udpdated only if the player finish the stage.
-- [ ] When the player collect all the gold one of the ladders will expend and climbing on it will get 
-      you to the next stage.
+Created By Ramon Zerem under the guidance of Nir Lahad In Bezalel Academy of Arts and Design and The Hebrew University.
